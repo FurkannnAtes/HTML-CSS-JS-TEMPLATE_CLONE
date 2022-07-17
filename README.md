@@ -6,4 +6,6 @@
 
 ##Content <br>
 I chose one of the template on a website, then I cloned it successfully with  HTML-CSS-Javascript 
-[aad8efa5-91d5-46e3-8d77-1ccbd05731c1.webm](https://user-images.githubusercontent.com/101650106/179426936-52932a49-37f3-4e88-b1e5-eeb2a889b7ea.webm)
+
+[aad8efa5-91d5-46e3-8d77-1ccbd05731c1.webm](https://user-images.githubusercontent.com/101650106/179426975-2be2401b-4581-4d59-8935-2577d44a88db.webm)
+![Uploading aad8efa5-91d5-46e3-8d77-1ccbd05731c1 (1).gif…]()
